@@ -1,0 +1,1 @@
+# gatsby-novela-local

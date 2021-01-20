@@ -1,0 +1,21 @@
+{
+  "name": "gatsby-theme-novela-local",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.31.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "gatsby": "^2.31.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
